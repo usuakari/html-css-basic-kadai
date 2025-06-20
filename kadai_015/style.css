@@ -9,15 +9,11 @@
     }
 
     .blue {
-    color:blue;
-    }
-
-    .skyblue {
-    color: skyblue;
+    color:skyblue;
     }
 
     .pink {
-    color: pink;
+    color: rgb(255, 192, 203);
     }
 
     h1 {
@@ -28,7 +24,7 @@
     border-bottom: 3px solid rgb(115, 115, 114);
     }
 
-    #basic {
+    #basic > p {
     font-weight:bold;
     }
 
